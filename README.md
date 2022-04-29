@@ -1,14 +1,14 @@
 # **ADVANCED CALCULATOR**
 
-# Information
+## INFORMATION
 
 * **Improved calculator that can calculate user-selected transactions.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **a**, **b**, **result**, **i**, **select** and **menu** are defined with int.
 
@@ -20,9 +20,7 @@
 
 * The possibility of the user to log out of the system at any time has been defined.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -300,13 +298,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/AdvancedCalculator.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
